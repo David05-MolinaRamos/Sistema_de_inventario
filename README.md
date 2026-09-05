@@ -1,4 +1,4 @@
-# Gestor de Inventario para Comedor (SIGSA)
+# Gestor de Inventario para Comedor
 
 Este es un programa en C++ que hice para llevar el control de los insumos (como comida y materiales) en un comedor. Empezó como un código básico en la terminal y lo fui mejorando hasta conectarlo con una ventana gráfica usando Qt para que sea más fácil de usar.
 
